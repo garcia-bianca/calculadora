@@ -78,3 +78,16 @@ body {
 .equal:hover {
   background: #43a047;
 }
+
+.zero {
+  grid-column: span 2;
+}
+
+.equal {
+  grid-row: span 2;
+  height: 130px;
+}
+
+.display {
+  word-break: break-all;
+}
